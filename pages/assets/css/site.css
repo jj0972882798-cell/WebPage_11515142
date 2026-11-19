@@ -228,7 +228,7 @@ button { font: inherit; }
   .belief-list p { font-size: .83rem; }
   .space-grid { gap: 30px; }
   .space-image-wrap img { aspect-ratio: 1.14 / 1; }
-  .contact-graphic { position: absolute; right: -65px; bottom: 17px; width: 170px; height: 170px; opacity: .45; }
+  .contact-graphic { position: absolute; right: -65px; bottom: -125px; width: 170px; height: 170px; opacity: .28; }
   .contact-word { font-size: .86rem; }
   .contact-spark { top: 16px; right: 33px; }
   .contact-grid { gap: 40px; }
