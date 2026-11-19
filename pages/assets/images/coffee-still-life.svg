@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">窗邊的手沖咖啡</title>
+  <desc id="desc">午後日光落在木桌上，一杯手沖咖啡、一把咖啡豆與綠色枝葉。</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#d4d0b9"/><stop offset="1" stop-color="#9ba58a"/></linearGradient>
+    <linearGradient id="window" x2="1" y2="1"><stop stop-color="#d9e0ca"/><stop offset="1" stop-color="#9db29a"/></linearGradient>
+    <linearGradient id="table" x2="0" y2="1"><stop stop-color="#96704f"/><stop offset="1" stop-color="#49392f"/></linearGradient>
+    <linearGradient id="cup" x2="0" y2="1"><stop stop-color="#f2ead8"/><stop offset="1" stop-color="#cbb99c"/></linearGradient>
+    <radialGradient id="coffee"><stop stop-color="#694532"/><stop offset=".8" stop-color="#39271f"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="34"/></filter>
+  </defs>
+  <path fill="url(#wall)" d="M0 0h1600v1000H0z"/>
+  <circle cx="1250" cy="200" r="210" fill="#f5daa0" opacity=".55" filter="url(#soft)"/>
+  <path fill="#455449" opacity=".6" d="M0 720c155-95 245-89 395 0v280H0z"/>
+  <path fill="url(#window)" d="M108 74h535v590H108z"/>
+  <path stroke="#53604f" stroke-width="18" d="M375 80v580M115 362h520"/>
+  <path fill="#f4dfaa" opacity=".42" d="m126 98 488 0-259 547h-229z"/>
+  <path fill="#687b63" opacity=".86" d="M110 613c90-154 156-183 228-232-11 110-60 191-151 252z"/>
+  <path fill="#7f8e71" d="M164 652c64-148 131-232 222-289-40 141-90 234-181 293z"/>
+  <path stroke="#c2cba8" stroke-width="5" d="M155 674c92-155 156-231 239-315"/>
+  <path fill="#455b4a" d="M0 707h1600v293H0z"/>
+  <path fill="url(#table)" d="M0 775c405-88 931-74 1600 10v215H0z"/>
+  <path stroke="#c29a6d" stroke-width="5" opacity=".25" d="M0 855c432-48 1035-34 1600 38M0 914c512-37 1089-15 1600 45"/>
+  <ellipse cx="972" cy="768" rx="255" ry="49" fill="#342921" opacity=".42"/>
+  <ellipse cx="965" cy="706" rx="212" ry="56" fill="#dfd2b7"/>
+  <ellipse cx="965" cy="697" rx="187" ry="42" fill="#f4ead6"/>
+  <path fill="url(#cup)" d="M824 442h269l-25 225c-9 65-48 95-110 95h-5c-64 0-101-31-109-95z"/>
+  <path fill="none" stroke="#c8b599" stroke-width="26" d="M1091 492h51c79 0 77 137-6 137h-40"/>
+  <ellipse cx="958" cy="451" rx="135" ry="35" fill="#e9ddc7"/>
+  <ellipse cx="958" cy="453" rx="114" ry="24" fill="url(#coffee)"/>
+  <path fill="none" stroke="#f2dfb6" stroke-width="4" opacity=".8" d="M909 452c22-14 40 14 62 0s40 14 61 0"/>
+  <path fill="#f3e7d0" opacity=".72" d="M961 429c-23-54 35-58 6-105 59 39 5 64 18 105z"/>
+  <path fill="#70503a" d="M476 817c-23-34 18-68 51-45 33 23 24 61-4 69-17 5-36-7-47-24zm67 21c-16-29 12-61 41-46 31 16 28 51 3 65-21 12-34 2-44-19zm58-37c-12-29 18-54 43-34 24 20 15 54-12 62-16 5-25-10-31-28zm-99 74c-19-24 0-54 28-48 29 6 36 38 14 54-18 14-31 6-42-6z"/>
+  <path stroke="#bc9872" stroke-width="3" opacity=".65" d="M490 777c9 20 19 29 34 39m33 0c11-18 24-29 38-35m31 1c-10 14-22 26-35 33"/>
+  <path fill="#d5bb87" d="M1257 481c67-85 112-128 171-151-20 99-63 153-146 187 38-54 62-95 80-136-38 37-68 71-105 100z"/>
+  <path stroke="#51664e" stroke-width="11" fill="none" d="M1264 571c48-72 92-148 159-241"/>
+  <path fill="#62775b" d="M1368 398c48-11 87-7 125 15-38 34-77 43-126 22-18 37-51 64-96 82 19-53 47-90 97-119z"/>
+  <path stroke="#a9b392" stroke-width="3" d="m1281 548 111-137m-8 26 104-24"/>
+  <rect width="1600" height="1000" fill="#27352b" opacity=".12"/>
+</svg>

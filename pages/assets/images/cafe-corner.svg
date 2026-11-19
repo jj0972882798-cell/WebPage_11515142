@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" role="img" aria-labelledby="title desc">
+  <title id="title">咖啡店午後一角</title>
+  <desc id="desc">溫暖的午後光線穿過窗戶，照亮木桌、咖啡杯與窗邊植栽。</desc>
+  <defs>
+    <linearGradient id="room" x2="0" y2="1"><stop stop-color="#d6d3bd"/><stop offset="1" stop-color="#a6a88f"/></linearGradient>
+    <linearGradient id="sunlight" x2="1" y2="1"><stop stop-color="#f8e7b5" stop-opacity=".8"/><stop offset="1" stop-color="#f4e3b2" stop-opacity="0"/></linearGradient>
+    <linearGradient id="wood" x2="0" y2="1"><stop stop-color="#9c7654"/><stop offset="1" stop-color="#5e4435"/></linearGradient>
+  </defs>
+  <path fill="url(#room)" d="M0 0h1000v900H0z"/>
+  <path fill="#59614d" d="M0 0h1000v74H0z"/>
+  <path fill="#dfe1cf" d="M83 96h446v431H83z"/>
+  <path fill="#b9c9b2" d="M104 117h404v388H104z"/>
+  <path fill="#8fa58d" opacity=".68" d="M105 396c77-90 128-112 190-128-25 93-78 167-190 208zm181 104c36-112 87-183 202-245-26 126-91 206-202 245z"/>
+  <path stroke="#69745c" stroke-width="14" d="M306 102v423M86 305h440"/>
+  <path fill="url(#sunlight)" d="m110 117 386 0-157 400H110z"/>
+  <path fill="#c9b690" d="M0 628h1000v272H0z"/>
+  <path fill="#52634e" d="M0 655h1000v245H0z"/>
+  <path fill="url(#wood)" d="M70 603c202-59 553-48 834 19v55c-286-48-591-59-834-9z"/>
+  <path fill="#654b39" d="M145 662h26v238h-26zm669 0h27v238h-27z"/>
+  <path fill="#cbb89a" d="M480 526h143l-16 97c-5 33-27 49-58 49s-52-16-57-49z"/>
+  <path fill="#563d2e" d="M621 548h26c39 0 39 66-3 66h-30"/>
+  <ellipse cx="551" cy="528" rx="72" ry="17" fill="#e8dcc5"/>
+  <ellipse cx="551" cy="529" rx="58" ry="10" fill="#51382a"/>
+  <path fill="#eee3ca" d="M744 585h102l-9 57h-86z"/>
+  <path fill="#71503b" d="M752 577c-8-12-5-23 4-28 4 13 13 15 11 28zm27 0c-3-15 6-25 18-25-4 12 1 19-8 27zm27 3c4-13 16-18 27-12-10 7-10 17-22 20z"/>
+  <path stroke="#ece2c9" stroke-width="2" opacity=".4" d="M83 668c265-51 534-37 867 23"/>
+  <path fill="#d9c79d" d="M87 725c99-15 143-2 191 20-67 40-124 46-199 22zm32 66c95-50 150-62 214-57-55 72-114 105-214 102z"/>
+  <path stroke="#637557" stroke-width="9" fill="none" d="M127 831c38-76 82-137 149-203"/>
+  <path fill="#526b50" d="M162 766c-2-45 17-76 48-105 8 42-4 76-42 104zm48-57c11-43 35-68 75-83-4 43-24 69-66 86zm-77 96c-21-38-22-73-9-112 29 31 36 65 19 109z"/>
+  <path fill="#f0d99c" opacity=".16" d="M529 116h471v432H362z"/>
+</svg>
